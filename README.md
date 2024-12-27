@@ -1,4 +1,7 @@
-Main file: [Honest Calculator/task/honest_calc.py](https://github.com/grapte/Hyperskill-HonestCalculator/blob/main/Honest%20Calculator/task/honest_calc.py)
-# Honest Calculator
+A CLI program that does basic calculations and motivate users to try and do the math themselves by being honest with them in a humorous way. Given a flowchart of the program, this project assembles it into working code without corner cases.
 
-CLI program that does basic calculations for you in a humorous interactive way. It has excessive control flow to fully practice turning flowcharts into working code without corner cases.
+Here's the link to the project: https://hyperskill.org/projects/208
+
+Check out my profile: https://hyperskill.org/profile/618051829
+
+![](https://ucarecdn.com/5a9953cf-380a-4a12-a88b-bb45edd5e890/)
